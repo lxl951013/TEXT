@@ -1,0 +1,53 @@
+html  超文本标记语言   描述网页的结构
+CSS   层叠样式表       样式
+JS    JavaScript脚本   交互 行为
+
+
+<  > 
+< 加 关键字
+<html>  标签
+<html> </html>  标签对  第一个标签叫开始标签  第二个标签叫结束标签 
+
+标签分为：双标签和单标签 
+
+<!DOCTYPE html>
+! 声明
+DOC document 文档
+TYPE 类型
+html5 
+
+<html lang="en">  描述一个网页
+</html>
+
+<head>  描述网页的头部，头部可以放一些信息
+</head>
+
+<meta charset="UTF-8">  设置字符编码  UTF-8 国际编码  gb2312中文简体编码  
+<title>Document</title>   设置网页的标题
+
+<body> 描述网页的主体内容
+		
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
